@@ -1,7 +1,6 @@
 import requests
 import json
 
-#
 book = "john"
 chapter = "3"
 
@@ -38,6 +37,8 @@ try:
     print(data)
     print(verse_text)
 
+    with open('testdata.json', 'w') as jsonFile:
+        json.dump(data, jsonFile, indent=4)
 
 except requests.exceptions.HTTPError as errh:
     print(f"HTTP Error: {errh}")
