@@ -16,11 +16,7 @@ async function initialize() {
     const js_data = await fetchJsonData('./jsondata.json');
 
     if (js_data) {
-        const myElement = document.getElementById("text-output");
-        myElement.innerHTML = `Reference: <strong>${js_data.ref}</strong>`;
-        const verseOut = document.getElementById("verse-output")
-        verseOut.innerHTML = "Testing - Type=Paragraph"
-        console.log(js_data.ref);
+        const titleOut = document.getElementById("title");
     }
 }
 
