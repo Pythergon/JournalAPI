@@ -1,162 +1,110 @@
 {
-    "ref": "john/3",
+    "ref": "romans/6",
     "ver": "nkjv",
-    "chapter": 3,
+    "chapter": 6,
     "verses": [
         {
             "r": "0",
             "h": 3,
-            "t": "The New Birth"
+            "t": "Dead to Sin, Alive to God"
         },
         {
             "r": "1",
-            "t": "There was a man of the Pharisees named Nicodemus, a ruler of the Jews."
+            "t": "What shall we say then? Shall we continue in sin that grace may abound?"
         },
         {
             "r": "2",
-            "t": "This man came to Jesus by night and said to Him, \u201cRabbi, we know that You are a teacher come from God; for no one can do these signs that You do unless God is with him.\u201d"
+            "t": "Certainly not! How shall we who died to sin live any longer in it?"
         },
         {
             "r": "3",
-            "t": "Jesus answered and said to him, \u201cMost*r assuredly,*r I*r say*r to*r you,*r unless*r one*r is*r born*r again,*r he*r cannot*r see*r the*r kingdom*r of*r God.\u201d*r"
+            "t": "Or do you not know that as many of us as were baptized into Christ Jesus were baptized into His death?"
         },
         {
             "r": "4",
-            "t": "Nicodemus said to Him, \u201cHow can a man be born when he is old? Can he enter a second time into his mother\u2019s womb and be born?\u201d"
+            "t": "Therefore we were buried with Him through baptism into death, that just as Christ was raised from the dead by the glory of the Father, even so we also should walk in newness of life."
         },
         {
             "r": "5",
-            "t": "Jesus answered, \u201cMost*r assuredly,*r I*r say*r to*r you,*r unless*r one*r is*r born*r of*r water*r and*r the*r Spirit,*r he*r cannot*r enter*r the*r kingdom*r of*r God.*r"
+            "t": "For if we have been united together in the likeness of His death, certainly we also shall be in*i the*i likeness*i of His*i resurrection,"
         },
         {
             "r": "6",
-            "t": "That*r which*r is*r born*r of*r the*r flesh*r is*r flesh,*r and*r that*r which*r is*r born*r of*r the*r Spirit*r is*r spirit.*r"
+            "t": "knowing this, that our old man was crucified with Him,*i that the body of sin might be done away with, that we should no longer be slaves of sin."
         },
         {
             "r": "7",
-            "t": "Do*r not*r marvel*r that*r I*r said*r to*r you,*r \u2018You*r must*r be*r born*r again.\u2019*r"
+            "t": "For he who has died has been freed from sin."
         },
         {
             "r": "8",
-            "t": "The*r wind*r blows*r where*r it*r wishes,*r and*r you*r hear*r the*r sound*r of*r it,*r but*r cannot*r tell*r where*r it*r comes*r from*r and*r where*r it*r goes.*r So*r is*r everyone*r who*r is*r born*r of*r the*r Spirit.\u201d*r"
+            "t": "Now if we died with Christ, we believe that we shall also live with Him,"
         },
         {
             "r": "9",
-            "t": "Nicodemus answered and said to Him, \u201cHow can these things be?\u201d"
+            "t": "knowing that Christ, having been raised from the dead, dies no more. Death no longer has dominion over Him."
         },
         {
             "r": "10",
-            "t": "Jesus answered and said to him, \u201cAre*r you*r the*r teacher*r of*r Israel,*r and*r do*r not*r know*r these*r things?*r"
+            "t": "For the*i death*i that He died, He died to sin once for all; but the*i life*i that He lives, He lives to God."
         },
         {
             "r": "11",
-            "t": "Most*r assuredly,*r I*r say*r to*r you,*r We*r speak*r what*r We*r know*r and*r testify*r what*r We*r have*r seen,*r and*r you*r do*r not*r receive*r Our*r witness.*r"
+            "t": "Likewise you also, reckon yourselves to be dead indeed to sin, but alive to God in Christ Jesus our Lord."
         },
         {
             "r": "12",
-            "t": "If*r I*r have*r told*r you*r earthly*r things*r and*r you*r do*r not*r believe,*r how*r will*r you*r believe*r if*r I*r tell*r you*r heavenly*r things?*r"
+            "t": "Therefore do not let sin reign in your mortal body, that you should obey it in its lusts."
         },
         {
             "r": "13",
-            "t": "No*r one*r has*r ascended*r to*r heaven*r but*r He*r who*r came*r down*r from*r heaven,*r that*ri is,*ri the*r Son*r of*r Man*r who*r is*r in*r heaven.*r"
+            "t": "And do not present your members as*i instruments of unrighteousness to sin, but present yourselves to God as being alive from the dead, and your members as*i instruments of righteousness to God."
         },
         {
             "r": "14",
-            "t": "And*r as*r Moses*r lifted*r up*r the*r serpent*r in*r the*r wilderness,*r even*r so*r must*r the*r Son*r of*r Man*r be*r lifted*r up,*r"
-        },
-        {
-            "r": "15",
-            "t": "that*r whoever*r believes*r in*r Him*r should*r not*r perish*r but*r have*r eternal*r life.*r"
-        },
-        {
-            "r": "16",
-            "t": "For*r God*r so*r loved*r the*r world*r that*r He*r gave*r His*r only*r begotten*r Son,*r that*r whoever*r believes*r in*r Him*r should*r not*r perish*r but*r have*r everlasting*r life.*r"
-        },
-        {
-            "r": "17",
-            "t": "For*r God*r did*r not*r send*r His*r Son*r into*r the*r world*r to*r condemn*r the*r world,*r but*r that*r the*r world*r through*r Him*r might*r be*r saved.*r"
-        },
-        {
-            "r": "18",
-            "t": "\u201cHe*r who*r believes*r in*r Him*r is*r not*r condemned;*r but*r he*r who*r does*r not*r believe*r is*r condemned*r already,*r because*r he*r has*r not*r believed*r in*r the*r name*r of*r the*r only*r begotten*r Son*r of*r God.*r"
-        },
-        {
-            "r": "19",
-            "t": "And*r this*r is*r the*r condemnation,*r that*r the*r light*r has*r come*r into*r the*r world,*r and*r men*r loved*r darkness*r rather*r than*r light,*r because*r their*r deeds*r were*r evil.*r"
-        },
-        {
-            "r": "20",
-            "t": "For*r everyone*r practicing*r evil*r hates*r the*r light*r and*r does*r not*r come*r to*r the*r light,*r lest*r his*r deeds*r should*r be*r exposed.*r"
-        },
-        {
-            "r": "21",
-            "t": "But*r he*r who*r does*r the*r truth*r comes*r to*r the*r light,*r that*r his*r deeds*r may*r be*r clearly*r seen,*r that*r they*r have*r been*r done*r in*r God.\u201d*r"
+            "t": "For sin shall not have dominion over you, for you are not under law but under grace."
         },
         {
             "r": "0",
             "h": 3,
-            "t": "John the Baptist Exalts Christ"
+            "t": "From Slaves of Sin to Slaves of God"
+        },
+        {
+            "r": "15",
+            "t": "What then? Shall we sin because we are not under law but under grace? Certainly not!"
+        },
+        {
+            "r": "16",
+            "t": "Do you not know that to whom you present yourselves slaves to obey, you are that one\u2019s slaves whom you obey, whether of sin leading*i to death, or of obedience leading*i to righteousness?"
+        },
+        {
+            "r": "17",
+            "t": "But God be thanked that though*i you were slaves of sin, yet you obeyed from the heart that form of doctrine to which you were delivered."
+        },
+        {
+            "r": "18",
+            "t": "And having been set free from sin, you became slaves of righteousness."
+        },
+        {
+            "r": "19",
+            "t": "I speak in human terms*i because of the weakness of your flesh. For just as you presented your members as*i slaves of uncleanness, and of lawlessness leading*i to more*i lawlessness, so now present your members as*i slaves of*i righteousness for holiness."
+        },
+        {
+            "r": "20",
+            "t": "For when you were slaves of sin, you were free in regard to righteousness."
+        },
+        {
+            "r": "21",
+            "t": "What fruit did you have then in the things of which you are now ashamed? For the end of those things is*i death."
         },
         {
             "r": "22",
-            "t": "After these things Jesus and His disciples came into the land of Judea, and there He remained with them and baptized."
+            "t": "But now having been set free from sin, and having become slaves of God, you have your fruit to holiness, and the end, everlasting life."
         },
         {
             "r": "23",
-            "t": "Now John also was baptizing in Aenon near Salim, because there was much water there. And they came and were baptized."
-        },
-        {
-            "r": "24",
-            "t": "For John had not yet been thrown into prison."
-        },
-        {
-            "r": "25",
-            "t": "Then there arose a dispute between some*i of John\u2019s disciples and the Jews about purification."
-        },
-        {
-            "r": "26",
-            "t": "And they came to John and said to him, \u201cRabbi, He who was with you beyond the Jordan, to whom you have testified\u2014behold, He is baptizing, and all are coming to Him!\u201d"
-        },
-        {
-            "r": "27",
-            "t": "John answered and said, \u201cA man can receive nothing unless it has been given to him from heaven."
-        },
-        {
-            "r": "28",
-            "t": "You yourselves bear me witness, that I said, \u2018I am not the Christ,\u2019 but, \u2018I have been sent before Him.\u2019"
-        },
-        {
-            "r": "29",
-            "t": "He who has the bride is the bridegroom; but the friend of the bridegroom, who stands and hears him, rejoices greatly because of the bridegroom\u2019s voice. Therefore this joy of mine is fulfilled."
-        },
-        {
-            "r": "30",
-            "t": "He must increase, but I must*i decrease."
-        },
-        {
-            "r": "31",
-            "t": "He who comes from above is above all; he who is of the earth is earthly and speaks of the earth. He who comes from heaven is above all."
-        },
-        {
-            "r": "32",
-            "t": "And what He has seen and heard, that He testifies; and no one receives His testimony."
-        },
-        {
-            "r": "33",
-            "t": "He who has received His testimony has certified that God is true."
-        },
-        {
-            "r": "34",
-            "t": "For He whom God has sent speaks the words of God, for God does not give the Spirit by measure."
-        },
-        {
-            "r": "35",
-            "t": "The Father loves the Son, and has given all things into His hand."
-        },
-        {
-            "r": "36",
-            "t": "He who believes in the Son has everlasting life; and he who does not believe the Son shall not see life, but the wrath of God abides on him.\u201d"
+            "t": "For the wages of sin is*i death, but the gift of God is*i eternal life in Christ Jesus our Lord."
         }
     ],
-    "fumsToken": "GzIBABwHbqxlyoOgvR489Mckf_yrgdbnG0VFsnT1hc7bBi7H3apLHCeIoGYvGre3OtNmNwj-bzlJJovg6r8L_zxvB9Avq8l5vOvkTc0LNzVTt8qLmZfGakEPd93rjJQH8zPOGIHkjT9rdt0FRAbOXZJl0Jrg5w7SWmk9xzdnW7AqhDgG27s0_XlbQsjaSZUXfGIYoWdLZAN8Eqyex_urvkNeRT_1c-ltXcqwKlHOYjByWeYu5GwLtRYG"
+    "fumsToken": "GzIBYJwHtmOXCgaDm8IzcAme5-8n-eH7KsG-DjeKimTp6gudanp628DluFt1ieMEEdTsReP2Vmfa7HYC25QmESfnFy5t-Od5O4B5OYPN493kYFtZ-Kmd-lVZzIKyzqh5uJtROoPmGW-toHfjz4zdsIDIwLlEsgxUEzzbQTmnXID45l2PQVvnx2B716U_b0vwWNun2oJPDCPubMlrgA_C6nm8n_RZw6rMZskqnxZexRC9qr5ZVUOdL9L3VGNk"
 }

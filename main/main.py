@@ -3,8 +3,8 @@
 import requests
 import json
 
-book = "john"
-chapter = "3"
+book = "romans"
+chapter = "6"
 
 # API Details
 BASE_URL = "https://api.rebuildingfaith.org"
