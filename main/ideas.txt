@@ -1,0 +1,6 @@
+
+Alright, I've gotten to the point where I want the script.js file to
+ask python to use the api. I will attempt to do this with another Json file
+called input.json where python will be constantly checking if it has changed,
+and if it has it will update the jsondata.json file so that script.js can use
+different chapters or books.
