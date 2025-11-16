@@ -8,3 +8,11 @@
     margin-top: 30px;
     line-height: 1.2;
 }
+
+.inputs {
+    text-align: center;
+}
+
+input {
+    width: 110px;
+}
